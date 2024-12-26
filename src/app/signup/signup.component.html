@@ -1,0 +1,22 @@
+<div class="main-cont">
+    <h2>Create Account</h2>
+    <form #signupForm="ngForm" (ngSubmit)="onSubmit(signupForm)">
+        <label class="labels">Email</label>
+        <input type="email" class="input-field" name="email" ngModel required>
+
+        <label class="labels">Password</label>
+        <input type="password" class="input-field" name="password" ngModel 
+               pattern="^(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{8,}$" required>
+
+        <label class="labels">Contact Number</label>
+        <input type="text" class="input-field" name="contact" ngModel 
+               minlength="10" maxlength="10" required>
+
+        <label class="labels">Full Name</label>
+        <input type="text" class="input-field" name="fullname" ngModel required>
+
+        <button type="submit" class="btn">Sign Up</button>
+        <p #errorMessage class="error-display" *ngIf="(!signupForm.valid && signupForm.touched)">Please fill all fields correctly!</p>
+        <p #successMessage class="success-display" *ngIf="showSuccess">Signup successful!</p>
+    </form>
+</div>

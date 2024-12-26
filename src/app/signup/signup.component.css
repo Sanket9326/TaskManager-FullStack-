@@ -1,0 +1,84 @@
+/* Full-page layout for the main container */
+.main-cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw; /* Full viewport width */
+    height: 100vh; /* Full viewport height */
+    background-color: #f7f8fa; /* Light background color */
+}
+
+/* Form container */
+.main-cont form {
+    width: 100%;
+    max-width: 400px; /* Centered and constrained */
+    background: #fff; /* White card-like background */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for elevation */
+    padding: 20px 30px;
+    text-align: center; /* Center align text within */
+}
+
+/* Heading */
+.main-cont h2 {
+    margin-bottom: 20px;
+    color: #333; /* Dark text for better readability */
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+/* Labels */
+.labels {
+    display: block;
+    text-align: left;
+    margin: 15px 0 5px;
+    color: #555; /* Softer text color */
+    font-size: 0.9rem;
+}
+
+/* Input fields */
+.input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    color: #333;
+}
+
+/* Button */
+.btn {
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    background-color: #007BFF; /* Blue background */
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Error message */
+.error-display {
+    margin-top: 10px;
+    color: #ff4d4d; /* Red for errors */
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+/* Success message */
+.success-display {
+    margin-top: 10px;
+    color: #28a745; /* Green for success */
+    font-size: 0.9rem;
+    font-weight: 500;
+}
