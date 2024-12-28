@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\services\\service\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\services\\service\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\services\\iservices\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\services\\iservices\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\services\\iservices\\iadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\services\\iservices\\iadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\services\\service\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\services\\service\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\services\\service\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\services\\service\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\controllers\\adminlogin\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\controllers\\adminlogin\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\data\\datadbcontext\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\data\\datadbcontext\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\data\\entity\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\data\\entity\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\data\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\data\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\controllers\\usercontroller\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\controllers\\usercontroller\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\data\\entity\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\data\\entity\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\data\\dto\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\data\\dto\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\services\\iservices\\iuserloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\services\\iservices\\iuserloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\services\\service\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\services\\service\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\services\\iservices\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\services\\iservices\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|c:\\users\\sanketsawant\\source\\repos\\taskmanagerbackend\\taskmanagerbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A18EE73F-27A2-47B7-8D59-C18E2F070493}|TaskManagerBackend\\TaskManagerBackend.csproj|solutionrelative:taskmanagerbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\IServices\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Services\\IServices\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\IServices\\IDashboardService.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Services\\IServices\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:52:32.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\Service\\DashboardService.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Services\\Service\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\Service\\DashboardService.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Services\\Service\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:52:06.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:27:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Controllers\\AdminLogin\\AdminLoginController.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Controllers\\AdminLogin\\AdminLoginController.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Controllers\\AdminLogin\\AdminLoginController.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Controllers\\AdminLogin\\AdminLoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:16:27.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Program.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:37:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\DataDbContext\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Data\\DataDbContext\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\DataDbContext\\UserDbContext.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Data\\DataDbContext\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:31:45.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\Service\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Services\\Service\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\Service\\AdminLogin.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Services\\Service\\AdminLogin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:06:07.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginService.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\Service\\UserLoginService.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Services\\Service\\UserLoginService.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\Service\\UserLoginService.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Services\\Service\\UserLoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:37:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\IServices\\IAdminLogin.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Services\\IServices\\IAdminLogin.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\IServices\\IAdminLogin.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Services\\IServices\\IAdminLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:05:17.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Entity\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Data\\Entity\\Task.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Entity\\Task.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Data\\Entity\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:28:41.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Data\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Entity\\User.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Data\\Entity\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:28:02.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Entity\\Admin.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Data\\Entity\\Admin.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Entity\\Admin.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Data\\Entity\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:52:54.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Controllers\\UserController\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Controllers\\UserController\\UserLoginController.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Controllers\\UserController\\UserLoginController.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Controllers\\UserController\\UserLoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:13:58.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Dto\\NewUserDto.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Data\\Dto\\NewUserDto.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Dto\\NewUserDto.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Data\\Dto\\NewUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:34:17.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Data\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Data\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Data\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:33:28.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserLoginService.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\IServices\\IUserLoginService.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Services\\IServices\\IUserLoginService.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\IServices\\IUserLoginService.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Services\\IServices\\IUserLoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:34:55.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\IServices\\IMailService.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Services\\IServices\\IMailService.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\IServices\\IMailService.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Services\\IServices\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:15:08.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\Service\\MailService.cs",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\Services\\Service\\MailService.cs",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\Services\\Service\\MailService.cs",
+              "RelativeToolTip": "TaskManagerBackend\\Services\\Service\\MailService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:16:48.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagerBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\SanketSawant\\source\\repos\\TaskManagerBackend\\TaskManagerBackend\\appsettings.json",
+              "RelativeToolTip": "TaskManagerBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T17:26:01.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
