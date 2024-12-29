@@ -37,6 +37,64 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TaskManagerBackend.Controllers.DashboardController",
+    "Method": "getAllTasks",
+    "RelativePath": "api/task",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerBackend.Controllers.DashboardController",
+    "Method": "addTask",
+    "RelativePath": "api/task/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TaskManagerBackend.Data.Entity.Task",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerBackend.Controllers.DashboardController",
+    "Method": "deleteTask",
+    "RelativePath": "api/task/delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TaskManagerBackend.Data.Entity.Task",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskManagerBackend.Controllers.DashboardController",
+    "Method": "updateTAsk",
+    "RelativePath": "api/task/update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TaskManagerBackend.Data.Entity.Task",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TaskManagerBackend.Controllers.UserController.UserLoginController",
     "Method": "addUser",
     "RelativePath": "api/user/add",

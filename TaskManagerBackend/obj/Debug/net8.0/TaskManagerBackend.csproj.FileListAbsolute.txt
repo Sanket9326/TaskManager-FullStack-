@@ -170,3 +170,4 @@ C:\Users\SanketSawant\source\repos\TaskManagerBackend\TaskManagerBackend\bin\Deb
 C:\Users\SanketSawant\source\repos\TaskManagerBackend\TaskManagerBackend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\SanketSawant\source\repos\TaskManagerBackend\TaskManagerBackend\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagerBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\SanketSawant\source\repos\TaskManagerBackend\TaskManagerBackend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\SanketSawant\source\repos\TaskManagerBackend\TaskManagerBackend\obj\Debug\net8.0\TaskManagerBackend.sourcelink.json

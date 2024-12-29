@@ -1,4 +1,4 @@
-﻿namespace TaskManagerBackend.Data.Entity
+namespace TaskManagerBackend.Data.Entity
 {
     public class Task
     {
@@ -7,5 +7,6 @@
         public string TaskDescription { get; set; }
         public DateTime CreatedDate { get; set; }
         public string TaskAdmin { get; set; }
+        
     }
 }
