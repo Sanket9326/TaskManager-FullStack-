@@ -1,1 +1,5 @@
-<p>dashboard works!</p>
+<div>
+    <p *ngFor="let task of Tasks">
+       {{task.taskId}} - {{task.taskName}} - {{task.taskDescription}} - {{task.createdDate}}
+    </p>
+</div>
