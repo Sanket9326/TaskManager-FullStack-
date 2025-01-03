@@ -1,14 +1,13 @@
 <div class="main-cont">
   <div class="login-cont">
-    <form #data = "ngForm" (ngSubmit)="onClick(data)">
-        <label class ="labels">Username</label>
+    <form #data="ngForm">
+        <label class="labels">Username</label>
         <input type="text" class="input-field" name="username" ngModel required>
-        <label class ="labels">Password</label>
+        <label class="labels">Password</label>
         <input type="password" class="input-field" name="password" ngModel required>
-        <button  type="submit" class="btn">User Login</button>
-        <button type="submit" class="btn">Admin Login</button>
+        <button (click)="onClickUser(data)" type="button" class="btn">User Login</button>
+        <button (click)="onClickAdmin(data)" type="button" class="btn">Admin Login</button>
         <p #message class="error-display">Enter valid username and password!</p>
     </form>
   </div>
 </div>
-

@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { CredentialsService } from '../Services/credentials.service';
 
 @Component({
   selector: 'app-dashboard',
@@ -8,5 +9,11 @@ import { Component } from '@angular/core';
   styleUrl: './dashboard.component.css'
 })
 export class DashboardComponent {
+   constructor (private service : CredentialsService){}
+   roleOfUser : string = this.service.getCredentials().role;
+
+   baseUrl : string = 'http://localhost/api/task';
+
+   
 
 }
