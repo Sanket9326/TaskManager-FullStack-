@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { CredentialsService } from '../Services/credentials.service';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
-import { CommonModule, NgFor } from '@angular/common';
+import { CommonModule, NgFor, NgIf } from '@angular/common';
 
 interface Task {
   taskId: number;
@@ -10,12 +10,10 @@ interface Task {
   createdDate: Date;
   taskAdmin: string;
 }
-
-
 @Component({
   selector: 'app-dashboard',
   standalone: true,
-  imports: [HttpClientModule,CommonModule,NgFor],
+  imports: [HttpClientModule, CommonModule, NgFor, NgIf],
   templateUrl: './dashboard.component.html',
   styleUrl: './dashboard.component.css',
 })
@@ -27,11 +25,35 @@ export class DashboardComponent {
   ngOnInit(): void {
     this.http.get<Task[]>(this.baseUrl).subscribe(
       (tasks) => {
-        console.log('Fetched tasks:', tasks);  // Log the response
+        console.log('Fetched tasks:', tasks);
         this.Tasks = tasks;
       },
       (error) => console.log('Error fetching tasks:', error)
     );
   }
-  
+
+  onClickDeleteTask(
+    TaskId: number,
+    taskName: string,
+    taskDescription: string,
+    createdDate: Date,
+    taskAdmin: string
+  ): void {
+    const currTask: Task = {
+      taskId: TaskId,
+      taskName: taskName,
+      taskDescription: taskDescription,
+      createdDate: createdDate,
+      taskAdmin: taskAdmin,
+    };
+
+    this.http.post(this.baseUrl + '/delete', currTask).subscribe(
+      (response) => {
+        console.log('Task Delted');
+      },
+      (err) => {
+        console.log('Error Deleting Task:', err);
+      }
+    );
+  }
 }

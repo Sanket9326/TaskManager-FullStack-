@@ -1,5 +1,30 @@
-<div>
-    <p *ngFor="let task of Tasks">
-       {{task.taskId}} - {{task.taskName}} - {{task.taskDescription}} - {{task.createdDate}}
-    </p>
-</div>
+<div class="task-dashboard">
+    <div class="task-header">
+      <button class="add-task-btn">Add Task</button>
+    </div>
+
+    <table class="task-table">
+      <thead>
+        <tr>
+          <th>Task ID</th>
+          <th>Task Name</th>
+          <th>Task Description</th>
+          <th>Created Date</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let task of Tasks">
+          <td>{{ task.taskId }}</td>
+          <td>{{ task.taskName }}</td>
+          <td>{{ task.taskDescription }}</td>
+          <td>{{ task.createdDate | date:'short' }}</td>
+          <td>
+            <button (click)="onClickDeleteTask(task.taskId,task.taskName,task.taskDescription,task.createdDate,task.taskAdmin)" class="btn-complete">Mark Completed</button>
+            <button (click)="onClickDeleteTask(task.taskId,task.taskName,task.taskDescription,task.createdDate,task.taskAdmin)" *ngIf="roleOfUser === 'admin'" class="btn-delete">Delete Task</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
