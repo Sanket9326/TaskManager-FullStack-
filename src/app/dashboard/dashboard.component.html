@@ -1,6 +1,6 @@
 <div class="task-dashboard">
     <div class="task-header">
-      <button class="add-task-btn">Add Task</button>
+      <button (click)="onAddTaskClick()" class="add-task-btn">Add Task</button>
     </div>
 
     <table class="task-table">
@@ -21,10 +21,25 @@
           <td>{{ task.createdDate | date:'short' }}</td>
           <td>
             <button (click)="onClickDeleteTask(task.taskId,task.taskName,task.taskDescription,task.createdDate,task.taskAdmin)" class="btn-complete">Mark Completed</button>
-            <button (click)="onClickDeleteTask(task.taskId,task.taskName,task.taskDescription,task.createdDate,task.taskAdmin)" *ngIf="roleOfUser === 'admin'" class="btn-delete">Delete Task</button>
+            <button (click)="onClickDeleteTask(task.taskId,task.taskName,task.taskDescription,task.createdDate,task.taskAdmin)" *ngIf="isAdmin" class="btn-delete">Delete Task</button>
           </td>
         </tr>
       </tbody>
     </table>
+  </div>
+
+  <div *ngIf="addTaskFlag" class="Add-Task-Cont">
+    <div class="task-form">
+        <form #addTaskForm = 'ngForm' (ngSubmit)="addTask(addTaskForm)">
+            <label for="taskName">Task Name:</label>
+            <input type="text" id="taskName" name="taskName" ngModel required>
+            <label for="taskDescription">Task Description:</label>
+            <textarea id="taskDescription" name="taskDescription" ngModel required></textarea>
+            <label for="taskAdmin">Task Admin</label>
+            <input type="text" id="taskAdmin" name="taskAdmin" ngModel required>
+            <button type="submit" class="btn">Add Task</button>
+        </form>
+
+    </div>
   </div>
   
